@@ -5,7 +5,7 @@ How to use:
 
 1 - Import the test project unity package, at least the scripts in it.
 
-2 - In your own code, just call the ApplyAnchorPreset function on a rectTransform of your choosing.
+2 - In your own code, just call the ApplyAnchorPreset function on a rectTransform of your choosing (it's an extension method).
 
  2a - Keep in mind that function is in the CGTespy.UI namespace.
  
